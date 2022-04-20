@@ -1,0 +1,18 @@
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\Marina Club.deps.json
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\Marina Club.runtimeconfig.json
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\Marina Club.runtimeconfig.dev.json
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\Marina Club.dll
+D:\Test\Marina Club\Marina Club\Marina Club\bin\Debug\netcoreapp2.1\Marina Club.pdb
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.csproj.AssemblyReference.cache
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.AssemblyInfoInputs.cache
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.AssemblyInfo.cs
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.csproj.CoreCompileInputs.cache
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.RazorAssemblyInfo.cache
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.RazorAssemblyInfo.cs
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.RazorTargetAssemblyInfo.cache
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.dll
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.pdb
+D:\Test\Marina Club\Marina Club\Marina Club\obj\Debug\netcoreapp2.1\Marina Club.genruntimeconfig.cache
